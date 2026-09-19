@@ -1,0 +1,57 @@
+# Blender 5.2.2 LTS MTL File: 'Interceptor.blend'
+# www.blender.org
+
+newmtl T_Inside
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.271331 0.271331 0.271331
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/T_Inside_baseColor.jpeg
+map_Bump -bm 1.000000 C:/T_Inside_normal.png
+
+newmtl T_Lights
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.258753 0.258753 0.258753
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_d C:/T_Lights_baseColor.png
+map_Bump -bm 1.000000 C:/T_Lights_normal.png
+
+newmtl T_Outside
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/T_Outside_baseColor.jpeg
+map_Bump -bm 1.000000 C:/T_Outside_normal.png
+
+newmtl T_Trunk
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/T_Trunk_baseColor.jpeg
+map_Bump -bm 1.000000 C:/T_Trunk_normal.png
+
+newmtl T_Underbody
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/T_Underbody_baseColor.jpeg
+map_Bump -bm 1.000000 C:/T_Underbody_normal.png
