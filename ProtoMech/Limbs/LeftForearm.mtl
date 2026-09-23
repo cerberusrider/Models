@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'Prototype.blend'
+# www.blender.org
+
+newmtl Arm
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Julian J/Desktop/3D Stuff/MachinaMech/Prototype/textures/AS_Arm_302_C.png
+map_Ke C:/Users/Julian J/Desktop/3D Stuff/MachinaMech/Prototype/textures/AS_Arm_302_E.png
